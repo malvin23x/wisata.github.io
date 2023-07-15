@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(158, 209, 234, 0.707);
+    background-size: cover;
+    padding: 100px;
+
+    
+  box-shadow: inset;
+}
+h1{
+   font-family: initial;
+   
+}
+body{
+  background-color: rgba(158, 209, 234, 0.707);;
+}
+p{
+font-style: italic;
+}
+li{
+  color: chocolate;
+}

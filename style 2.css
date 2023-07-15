@@ -1,0 +1,19 @@
+body {
+  background-color: rgba(158, 209, 234, 0.707);
+
+
+ .carousel{
+  height: 1000px;
+ text-align: center;
+
+ }
+
+ 
+ 
+  .rating{
+    color: greenyellow;
+  }
+  .navbar{
+    color: transparent;
+  }
+  
